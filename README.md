@@ -1,10 +1,10 @@
 ## Info
 
-Jacob Lahne
-[Associate Professor of Food Science & Technology](https://www.fst.vt.edu/aboutus/faculty/jlahne.html)
-Virginia Tech
-Blacksburg, VA 24060
-`jlahne at vt dot edu`
+Jacob Lahne  
+[Associate Professor of Food Science & Technology](https://www.fst.vt.edu/aboutus/faculty/jlahne.html)  
+Virginia Tech  
+Blacksburg, VA 24060  
+`jlahne at vt dot edu`  
 
 ## About
 
