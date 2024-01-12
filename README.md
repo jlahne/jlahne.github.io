@@ -14,18 +14,18 @@ I am a sensory scientist: I research how humans perceive the flavors of food pro
 
 My [Google Scholar profile](https://scholar.google.com/citations?user=f-3bd00AAAAJ&hl=en) is usually most up to date.  Most of my research is available as open-access preprints indexed through Scholar.  
 
-- Incomplete Linking: a repository for the paper
+- [Incomplete Linking](https://github.com/jlahne/incomplete-linking): a code repository for the paper "Analyzing larger sample sets with rapid methods: Incomplete-block designs with free-sorting and free-linking tasks."  [Open-access pre-print](https://hdl.handle.net/10919/117346) is available through VTechWorks.
+- [Text-Mining Workflow](https://github.com/jlahne/text-mining-eurosense-2020): a code repository and presentation on text mining for Eurosense 2020.
 
 
 ## Teaching
 
-- Data Analytics for Food and Ag Science (2022)
-- Eurosense Text Analysis Workshop (2022)
-- Pangborn Correspondence Analysis Workshop (2023)
+- [Data Analytics for Food and Ag Science](https://github.com/jlahne/food-data-science-2022) (2022): My first bookdown!  A rendered version of course notes/handouts for FST ~~5984~~5734. 
+- [Eurosense Text Analysis Workshop](https://github.com/jlahne/eurosense-tutorial-2022) (2022): A bookdown and tutorial walkthrough for sensory-related text analysis, presented at Eurosense 2022 (with Leah Hamilton).
+- [Pangborn Introduction to `R` Workshop](https://github.com/lhami/pangborn-r-tutorial-2023) (2023): A bookdown and tutorial for `R` for sensory scientists, presented by Leah Hamilton at Pangborn 2023.
 - Sensometrics Nice Figures in `R` Workshop (2024, pending)
 
 ## Other stuff
 
-- The `R` Opus v2 (2024)
-- Text Mining Walkthrough (2021)
-- 
+- [The `R` Opus v2](https://github.com/jlahne/r-opus-v2) (2024): Guide to practical and applied multivariate data analysis for sensory scientists, based on Hildegarde Heymann's original (2015) guide.
+
