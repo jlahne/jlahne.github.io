@@ -23,7 +23,7 @@ My [Google Scholar profile](https://scholar.google.com/citations?user=f-3bd00AAA
 - [Data Analytics for Food and Ag Science](https://github.com/jlahne/food-data-science-2022) (2022): My first bookdown!  A rendered version of course notes/handouts for FST ~~5984~~5734. 
 - [Eurosense Text Analysis Workshop](https://github.com/jlahne/eurosense-tutorial-2022) (2022): A bookdown and tutorial walkthrough for sensory-related text analysis, presented at Eurosense 2022 (with Leah Hamilton).
 - [Pangborn Introduction to `R` Workshop](https://github.com/lhami/pangborn-r-tutorial-2023) (2023): A bookdown and tutorial for `R` for sensory scientists, presented by Leah Hamilton at Pangborn 2023.
-- Sensometrics Nice Figures in `R` Workshop (2024, pending)
+- [Sensometrics Better Data Visualization with `R` and `ggplot2` Workshop](https://github.com/lhami/sensometrics-r-tutorial-2024) (2024): A bookdown and tutorial for using `ggplot2` to produce better sensory-science visualizations, presented with Leah Hamilton at Sensometrics 2024.
 
 ## Other stuff
 
