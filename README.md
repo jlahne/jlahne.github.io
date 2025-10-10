@@ -24,6 +24,7 @@ My [Google Scholar profile](https://scholar.google.com/citations?user=f-3bd00AAA
 - [Eurosense Text Analysis Workshop](https://github.com/jlahne/eurosense-tutorial-2022) (2022): A bookdown and tutorial walkthrough for sensory-related text analysis, presented at Eurosense 2022 (with Leah Hamilton).
 - [Pangborn Introduction to `R` Workshop](https://github.com/lhami/pangborn-r-tutorial-2023) (2023): A bookdown and tutorial for `R` for sensory scientists, presented by Leah Hamilton at Pangborn 2023.
 - [Sensometrics Better Data Visualization with `R` and `ggplot2` Workshop](https://github.com/lhami/sensometrics-r-tutorial-2024) (2024): A bookdown and tutorial for using `ggplot2` to produce better sensory-science visualizations, presented with Leah Hamilton at Sensometrics 2024.
+- [Pangborn data visualization with `R` and `ggplot2` workshop](https://github.com/jlahne/pangborn-tutorial-2025) (2025): A revision of the 2024 workshop offered at Sensometrics for data visualization in `R` for sensory scientists.
 
 ## Other stuff
 
